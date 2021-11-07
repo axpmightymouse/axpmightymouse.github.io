@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPI Crows</title>
+    <link>http://axpmightymouse.github.io/</link>
+    <description>Recent content on RPI Crows</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 12:12:36 -0500</lastBuildDate><atom:link href="http://axpmightymouse.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grad Weekend Fall 21</title>
+      <link>http://axpmightymouse.github.io/news/grad-weekend-fall-21/</link>
+      <pubDate>Sun, 07 Nov 2021 12:12:36 -0500</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/news/grad-weekend-fall-21/</guid>
+      <description>The RCAF and Delta Phi of Alpha Chi Rho Building Association successfully hosted the bi-annual Grad Weekend, both virtually and in-person. The General Meeting was held from 10:30AM-12:30 PM Sunday morning with 25 members in attendance. The meeting minutes have been uploaded to the google drive.</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>http://axpmightymouse.github.io/donate/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/donate/</guid>
+      <description>There are several ways that you can help out our RPI Crows
+Direct donation to the RCAF via Paypal TODO: Get that info here
+Amazon Smile Amazon Smile is a program that donates a small percentage of sales to the charity of your choice. The Rensselaer Crows Alumni Foundation is an authorized charity for this program.
+To use Amazon Smile from a web browser:  Visit smile.amazon.com Sign in with the same account you use for Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Local Chapter History</title>
+      <link>http://axpmightymouse.github.io/about/local-chapter-history/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/about/local-chapter-history/</guid>
+      <description>Late in the fall semester of 1946, a group of 15 members of the class of 1950 concerned themselves with the rather inevitable fate of separation and absorption by other group on campus. A small committee was appointed to investigate possibilities of organizing a new fraternity with the goal of keeping this group and its ideals intact. It was touch and go for several months while some of the members plunged ahead with the business at hand, others remaining undecided.</description>
+    </item>
+    
+    <item>
+      <title>National History</title>
+      <link>http://axpmightymouse.github.io/about/national-history/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/about/national-history/</guid>
+      <description>History can be presented in many forms. It can be written or oral. This historical outlook on the trials and triumphs of our Brotherhood was taken from articles which have appeared in the Garnet &amp;amp; White, from personal letters in the Fraternity’s archives, and from personal discussions with Brothers who shared their stories with us.
+The year was 1894. Grover Cleveland was the President of the United States. The country was starting to recover from the Economic Panic of 1893, which seriously jeopardized the monetary and fiscal policies of both the country and its individuals.</description>
+    </item>
+    
+    <item>
+      <title>Our Properties</title>
+      <link>http://axpmightymouse.github.io/about/our-properties/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/about/our-properties/</guid>
+      <description>Alpha Chi Rho consists of three houses on 4 property lots located between Tibbits Ave. and Highland Ave. We are located approximately two blocks from the main campus, making it an easy walk to and from class. Every room has a Cable TV connection and also a high speed internet port for each brother. The House will supply each room with a desk, bed, and chair, although many brothers choose to provide their own for reasons of comfort.</description>
+    </item>
+    
+    <item>
+      <title>Building Association Officers</title>
+      <link>http://axpmightymouse.github.io/officers/building-association-officers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/officers/building-association-officers/</guid>
+      <description>Directors  President Vice-President Secretary Tresurer ** At-Large Officers **  One Two Three Four    Auditors  Graduate: Undergraduate:  Appointed Positions  AFSC Communication Chair Building Committee Chair  </description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://axpmightymouse.github.io/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/gallery/</guid>
+      <description>if (!jQuery) {alert(&#34;jquery is not loaded&#34;);}$( document ).ready(() = {const gallery = $(&#34;#gallery-0&#34;);let swipeboxInstance = null;gallery.on(&#39;jg.complete&#39;, () = {$(() = {$(&#39;.lazy&#39;).Lazy({visibleOnly: true,afterLoad: element = element.css({filter: &#34;none&#34;, transition: &#34;filter 1.0s ease-in-out&#34;})});});swipeboxInstance = $(&#39;.galleryImg&#39;).swipebox(jQuery.extend({},{ }));});gallery.justifiedGallery({rowHeight : &#34;150&#34;,margins : &#34;</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Officers</title>
+      <link>http://axpmightymouse.github.io/officers/undergraduate-officers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://axpmightymouse.github.io/officers/undergraduate-officers/</guid>
+      <description>Officers Executive Committee  President Gio Vice President Whoever Steward Whoever Secretary Whoever Risk Management Officer (RMO) Whoever Member-at-Large (MAL) Whoever  </description>
+    </item>
+    
+  </channel>
+</rss>

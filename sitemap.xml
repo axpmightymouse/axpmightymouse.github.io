@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://axpmightymouse.github.io/news/grad-weekend-fall-21/</loc>
-    <lastmod>2021-11-07T12:12:36-05:00</lastmod>
+    <loc>http://axpmightymouse.github.io/faqs/</loc>
+    <lastmod>2021-11-07T16:40:23-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://axpmightymouse.github.io/</loc>
+    <lastmod>2021-11-07T16:40:23-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://axpmightymouse.github.io/news/grad-weekend-fall-21/</loc>
     <lastmod>2021-11-07T12:12:36-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -32,6 +37,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://axpmightymouse.github.io/faqs/living-at-the-house/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://axpmightymouse.github.io/about/local-chapter-history/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,6 +53,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://axpmightymouse.github.io/about/our-properties/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://axpmightymouse.github.io/faqs/postulancy/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://axpmightymouse.github.io/faqs/why-go-greek/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

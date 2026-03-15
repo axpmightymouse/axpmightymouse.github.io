@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://www.rpicrows.com/sitemap.xml
+Sitemap: /sitemap.xml
